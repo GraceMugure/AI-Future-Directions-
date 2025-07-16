@@ -1,0 +1,9 @@
+Q3: Societal Impact of Human-AI Collaboration in Healthcare
+
+Human-AI collaboration in healthcare is reshaping how medical professionals diagnose, treat, and care for patients. Instead of replacing doctors or nurses, AI systems are increasingly being used to support and augment their decisions, leading to more accurate, faster, and personalized care.
+
+For example, AI-powered diagnostic tools can analyze medical images like X-rays or MRIs with high precision. Radiologists can use these tools to detect anomalies earlier and with greater confidence, reducing human error and improving outcomes. Similarly, nurses can rely on AI-based monitoring systems to track patient vitals in real-time, enabling quicker responses to emergencies.
+
+This collaboration not only boosts efficiency but also frees up healthcare workers to focus on tasks that require human empathy, critical thinking, and communication. As a result, patient care becomes more holistic and responsive.
+
+However, Human-AI collaboration also raises societal considerations, such as the need for training medical staff to effectively use AI tools, ensuring transparency in AI decisions, and addressing concerns about job displacement. If implemented thoughtfully, AI can empower healthcare workers rather than replace them—ushering in a new era of precision, compassion, and collaboration in medicine.

@@ -1,0 +1,15 @@
+Q1: Edge AI — Reducing Latency and Enhancing Privacy
+
+Edge AI refers to running AI algorithms directly on edge devices like smartphones, cameras, drones, or IoT sensors — instead of relying on remote cloud servers.
+
+This approach significantly reduces latency, since data doesn’t need to travel back and forth to the cloud. Decisions are made locally and instantly, which is critical in time-sensitive applications like autonomous vehicles or real-time threat detection.
+
+Edge AI also enhances privacy, as sensitive data is processed locally rather than being transmitted to external servers. This reduces the risk of data leaks and aligns better with regulations like GDPR.
+
+Real-world Example: Autonomous Drones
+Autonomous drones used in search and rescue missions rely on Edge AI to:
+- Process video feeds in real time
+- Detect survivors or hazards without internet connection
+- Avoid privacy risks by keeping visual data on-device
+
+By combining speed, autonomy, and local processing, Edge AI empowers drones to operate effectively even in remote or disaster-hit areas with no connectivity.

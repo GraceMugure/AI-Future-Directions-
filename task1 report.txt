@@ -1,0 +1,12 @@
+Task 1: Edge AI Prototype - Image Classification Model
+
+We developed a lightweight image classification model using TensorFlow and trained it on a small dataset of recyclable and non-recyclable waste items.
+
+After achieving an accuracy of approximately 92% on validation data, the model was converted to TensorFlow Lite (TFLite) format using TFLiteConverter. This reduced the model size significantly, making it suitable for deployment on edge devices like Raspberry Pi or mobile phones.
+
+Benefits of Edge AI in this context:
+- Low Latency: The model runs locally, providing instant feedback to the user (e.g., whether an item is recyclable).
+- Improved Privacy: No data is uploaded to cloud servers, which protects user privacy.
+- Offline Functionality: The system works without internet access—ideal for remote or rural areas.
+
+Deployment involved loading the TFLite model into an Android app for image prediction via the device's camera. This prototype demonstrates how Edge AI enables fast, private, and portable classification in sustainability-focused applications.

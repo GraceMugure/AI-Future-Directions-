@@ -1,0 +1,13 @@
+Task 3: Ethics in Personalized Medicine
+
+Using AI to recommend treatments based on genomic data has great potential, but it also introduces significant ethical concerns, especially around bias and fairness.
+
+One major issue is bias due to underrepresentation in datasets. Many genomic datasets, including those used in cancer research, are disproportionately composed of data from individuals of European descent. This imbalance can lead to AI models that perform poorly on underrepresented ethnic groups, increasing the risk of misdiagnosis or ineffective treatment recommendations.
+
+To address this, fairness strategies must be implemented:
+
+1. Use diverse training data: Incorporate genomic data from a wide range of ethnic backgrounds to reduce bias and increase generalizability of predictions.
+2. Bias audits: Regularly assess model outputs across different demographic groups to detect and mitigate performance disparities.
+3. Transparency: Ensure that clinicians and patients understand how AI recommendations are made, and provide opportunities for human oversight.
+
+Ethical use of AI in personalized medicine demands vigilance, inclusivity, and ongoing review. With the right safeguards, AI can be a powerful ally in delivering equitable, individualized healthcare.

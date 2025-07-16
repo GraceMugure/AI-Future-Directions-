@@ -1,0 +1,23 @@
+Task 2: AI-Driven IoT Concept — Smart Agriculture System
+
+Objective:
+To improve crop yield predictions using an AI-driven system supported by real-time data from IoT sensors in agricultural fields.
+
+Required Sensors:
+- Soil Moisture Sensor: To monitor soil water levels.
+- Temperature Sensor: To track environmental conditions.
+- Light Sensor: To measure sunlight exposure.
+- Humidity Sensor: To detect atmospheric humidity.
+- pH Sensor: To monitor soil acidity.
+
+Proposed AI Model:
+A Decision Tree Regression model is proposed for its simplicity and interpretability. It will take real-time sensor data as input and predict the likelihood of optimal crop yield. Over time, the model can be retrained with new data to improve accuracy.
+
+Data Flow Diagram (text description):
+1. IoT sensors collect data from the field (e.g., temperature, soil moisture).
+2. Data is transmitted to a cloud or edge device using a wireless network.
+3. The AI model processes the data to predict crop yield.
+4. Results are visualized on a dashboard for the farmer.
+5. Actionable insights (e.g., "irrigate now") are sent as alerts.
+
+This system empowers farmers to make data-driven decisions, reduce waste, and increase sustainability in agriculture.
