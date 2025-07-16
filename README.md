@@ -32,7 +32,7 @@ All educational content and project code are for learning purposes only.
 
 Grace Mugure  
 AI Learner | Software Enthusiast | PLP Academy Cohort  
-[GitHub Profile](https://github.com/GraceMugure) *(replace this with your actual profile link)*
+[GitHub Profile](https://github.com/GraceMugure)
 
 ---
 
